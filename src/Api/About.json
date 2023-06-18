@@ -1,0 +1,20 @@
+[
+    {    
+        "id":"1",
+        "name":"PCB CAM WORK",
+        "description": "work on PCB cad cam check the PCB on genesis software as well as get the knoweldge about PCB CAM work as well as production department",
+        "img":"https://cdn-icons-png.flaticon.com/512/7286/7286899.png"
+    },
+    {    
+        "id":"2",
+        "name":"TRADING SOFTWARE APPLICATION",
+        "description":"knoweldge about Trading campus, online trading and How to use trading product in technology. create designs for trading app & dynamic data get with c# and React js technology",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcRWr9s0Y2WZS6RzoKaXqfIs5JOtU5QlXlG6Y0xctcgzCgVILaOjbo98tTLGE1AoMxupKcZo8hZg&usqp=CAU&ec=48600112"
+    },
+    {    
+        "id":"3",
+        "name":"BUSINESS TO BUSINESS DEVELOPMENT",
+        "description":" # B2B state of art networking platform to connect, collaborate for seamless supply chain cycle which enables MSME (Micro, Small & Medium Enterprises) & Corporates of India for buying & selling requirements with 100% verified businesses.",
+        "img":"https://www.shutterstock.com/image-vector/b2b-round-arrows-icon-vector-260nw-1383650522.jpg"
+    }
+]
